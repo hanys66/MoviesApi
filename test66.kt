@@ -18,3 +18,4 @@ names[2]="HANY"
     }
 
 }
+//"postinstall": "pnpx playwright-core install chromium",
